@@ -12,7 +12,7 @@ import {
 // ─────────────────────────────────────────────
 const CONFIG = {
   // PASTE YOUR WhatsApp wa.me LINK HERE 👇
-  WHATSAPP_LINK: 'https://wa.me/91XXXXXXXXXX?text=Hi%20Choizo!%20I%20want%20to%20start%20AI%20shopping',
+  WHATSAPP_LINK: 'https://wa.me/919587193515?text=Hi%20Choizo!%20I%20want%20to%20start%20AI%20shopping',
 
   // Bot name
   BOT_NAME: 'Choizo',
